@@ -1,0 +1,54 @@
+.hero {
+    background-image: url(../assets/images/hero-bg.jpg);
+    background-size: cover;
+    background-position: bottom;
+    position: relative;
+    height: auto;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.page-title {
+     color: #fce138;
+     font-weight: normal;
+     font-size: 42px;
+     font-style: italic;
+     display: inline-block;
+     padding: 30px 80px 15px 80px;  
+     border-bottom: 4px solid #fce138;
+}
+
+.hero-secondary {
+    background-image: url("https://static.fullstack-bootcamp.com/module-1/hero-bg.jpg");
+    background-position: center;    
+    height: 150px;
+    background-size: cover;
+    position: relative;
+    text-align: center;
+}
+
+.secondary-content {
+    width: 80%;
+    margin: auto;
+    color: #024e76;
+}
+
+.secondary-content h3 {
+    font-size: 25px;
+    margin: 20px 0 20px 0;
+}
+
+.secondary-content p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 20px 0 20px 0;
+}
+
+.secondary-content ul {
+    margin: 15px 20px 15px 20px;
+}
+
+.secondary-content li {
+    columns: #39a6b2;
+    margin: 10px 0 10px 0;
+}
